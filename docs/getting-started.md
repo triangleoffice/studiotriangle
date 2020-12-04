@@ -1,5 +1,7 @@
 # Getting Started
 
+## Table of Contents
+
 [toc]
 
 Welcome to the StudioTriangle support documentation.
