@@ -7,6 +7,10 @@
                 {
                     "title": "Getting Started",
                     "path": "/docs/getting-started.md"
+                },
+                {
+                    "title": "Basic Manifest",
+                    "path": "/docs/basic.md"
                 }
             ]
         }
