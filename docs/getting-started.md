@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[toc]
+
 
 Welcome to the StudioTriangle support documentation.
 
@@ -22,4 +22,20 @@ This plugin works on MDAST, a Markdown AST implemented by [remark](https://githu
 
 *[MDAST]: Markdown Abstract Syntax Tree.
 *[AST]: Abstract syntax tree
+
+
+
+[toc]
+
+## Code
+
+```json
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
+```
 
