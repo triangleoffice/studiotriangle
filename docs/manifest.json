@@ -13,15 +13,15 @@
                     "path": "/docs/basic.md"
                 },
                 {
-                    "title": "Basic Manifest",
+                    "title": "Nested",
                     "routes": [
                         {
                             "title": "Nested One",
-                            "path": "/nested/one.md"
+                            "path": "/docs/nested/one.md"
                         },
                         {
                             "title": "Nested Two",
-                            "path": "/nested/two.md"
+                            "path": "/docs/nested/two.md"
                         }
                     ]
                 }
