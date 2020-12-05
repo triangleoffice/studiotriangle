@@ -11,6 +11,19 @@
                 {
                     "title": "Basic Manifest",
                     "path": "/docs/basic.md"
+                },
+                {
+                    "title": "Basic Manifest",
+                    "routes": [
+                        {
+                            "title": "Nested One",
+                            "path": "/nested/one.md"
+                        },
+                        {
+                            "title": "Nested Two",
+                            "path": "/nested/two.md"
+                        }
+                    ]
                 }
             ]
         }
