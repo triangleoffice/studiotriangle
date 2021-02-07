@@ -25,19 +25,6 @@
                             "path": "/docs/nested/two.md"
                         }
                     ]
-                },
-                {
-                    "title": "Nested",
-                    "routes": [
-                        {
-                            "title": "Nested One",
-                            "path": "/docs/nested/one.md"
-                        },
-                        {
-                            "title": "Nested Two",
-                            "path": "/docs/nested/two.md"
-                        }
-                    ]
                 }
             ]
         }
